@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "com.darkcheftar.plugins.ocr",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "OCR",
+	"description": "",
+	"author": "darkcheftar",
+	"homepage_url": "https://github.com/darkcheftar/Joplin-ocr-plugin",
+	"repository_url": "https://github.com/darkcheftar/Joplin-ocr-plugin",
+	"keywords": []
+}
